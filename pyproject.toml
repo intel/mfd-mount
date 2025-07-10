@@ -12,7 +12,7 @@ dependencies = { file = ["requirements.txt"] }
 name = "mfd-mount"
 description = "Module for handling mounting and unmounting fileshares on different operating systems"
 requires-python = ">=3.10, <3.14"
-version = "1.7.0"
+version = "1.8.0"
 dynamic = ["dependencies"]
 license-files = ["LICENSE.md", "AUTHORS.md"]
 readme = {file = "README.md", content-type = "text/markdown"}
