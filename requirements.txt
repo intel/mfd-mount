@@ -1,2 +1,2 @@
 # Put dependencies required for running properly the module here
-mfd-typing >= 1.23.0
+mfd-typing >= 1.25.0
